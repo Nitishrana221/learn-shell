@@ -11,4 +11,4 @@ Shell scripting topics
 7. Redirectors
 8. Quotes
 9. SED Editor
-Exit Status
+10. Exit Status
